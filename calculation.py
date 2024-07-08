@@ -1,0 +1,7 @@
+print(4+5)
+print(4+5*9)
+print(4/2)
+print(4//2)
+print(2**6)
+print(round(2**(1/2),6))
+print(2**3**2)

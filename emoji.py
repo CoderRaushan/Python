@@ -1,0 +1,5 @@
+print("\U0001f602")
+print("\U0001f604")
+print("\U0001f618")
+print("\U0001f604")
+print("\U0001f606")
